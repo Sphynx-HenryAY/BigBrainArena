@@ -1,0 +1,10 @@
+{
+  "name": "big-brain-arena",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "靈活腦學校 — an extensible brain-training game platform for GitHub Pages",
+  "scripts": {
+    "start": "npx --yes serve . -l 4173"
+  }
+}
